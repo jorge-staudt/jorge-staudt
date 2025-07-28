@@ -33,6 +33,13 @@ I'm a **Data Scientist Specialist** and **MLOps** from Brazil with over 10 years
 
 I love dogs 🐶, soccer ⚽, collecting action figures 🎯, and exploring new restaurants 🍔 and beaches 🏖️.
 
+## 📊 GitHub Stats
+
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge-staudt&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-staudt&layout=compact&theme=radical)
+
+---
+
 ## 📫 Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/jorgeluizstaudt)
