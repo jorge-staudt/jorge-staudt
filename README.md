@@ -38,3 +38,4 @@ I love dogs 🐶, soccer ⚽, collecting action figures 🎯, and exploring new 
 - [LinkedIn](https://www.linkedin.com/in/jorgeluizstaudt)
 - [Email](mailto:jorge.staudt@hotmail.com)
 
+<img src="https://github.com/jorge-staudt/jorge-staudt/blob/main/bat-divider.gif" width="100%"/>
